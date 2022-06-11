@@ -15,3 +15,6 @@ docker image push patrykkalita/zadanie2:nginx
 docker image tag decdc72aa5b6 patrykkalita/zadanie2:worker
 
 docker image push patrykkalita/zadanie2:worker
+
+
+![dockerhub](https://user-images.githubusercontent.com/102977792/173187929-73059a27-5f43-4128-9e79-fe590042ffa3.PNG)
